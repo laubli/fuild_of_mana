@@ -18,7 +18,8 @@ class FluidOfMana extends Game {
   }
 
   @override
-  Color backgroundColor() => const Color(0xFF222222);
+  Color backgroundColor() => const Color(0xFF151c1f);
+
 
 }
 
